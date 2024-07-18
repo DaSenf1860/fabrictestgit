@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "blubb"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a8921a3e-9d5f-4486-8abc-8187609acda9"
+  }
+}
